@@ -3,7 +3,7 @@
   "name": "New Tab Clock - Devansh",
   "version": "1.0",
   "description": "A custom new tab page with a digital clock and typewriter text for Devansh.",
-  "author": "Devansh",
+  "author": "Your Name",
   "chrome_url_overrides": {
     "newtab": "index.html"
   },
